@@ -1,6 +1,6 @@
-owner=470741738219372545
-prefix=1
-game=TyPe | 1play
+owner=538349275713634315
+prefix=T
+game= ToomRu , - ➴ .
 stayinchannel=true
 songinstatus=false
 token=NTU3OTQ4MjQ4Njk0ODQ5NTM2.D3PtYA.lEhc3hR1I5YWjTXmvnBVlDdy5cQ
